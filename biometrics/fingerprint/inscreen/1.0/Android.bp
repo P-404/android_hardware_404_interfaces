@@ -5,6 +5,7 @@ hidl_interface {
     root: "vendor.p404",
     srcs: [
         "IFingerprintInscreen.hal",
+        "IFingerprintInscreenCallback.hal",
     ],
     interfaces: [
         "android.hidl.base@1.0",
