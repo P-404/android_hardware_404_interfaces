@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package vendor.p404.camera.motor@1.0;
+package vendor.lineage.camera.motor@1.0;
 
 interface ICameraMotor {
     onConnect(string cameraId);
